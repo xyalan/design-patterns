@@ -7,6 +7,9 @@ package com.hialan.patterns.factory;
  */
 public class Factory implements IFactory {
 	public IAuto produceAuto() {
-		return new Car();
+		Engine engine = new Engine();
+		Wheel wheel = new Wheel();
+		Tyre tyre = new Tyre();
+		return new Car(engine, wheel, tyre);
 	}
 }
