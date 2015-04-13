@@ -1,6 +1,8 @@
-Demo codes for design patterns in java
-
 Design Patterns:
+---
+Demo codes for design patterns in java.
+
+Design Patterns Wikipedia:
 ---
   - [Builder](http://en.wikipedia.org/wiki/Builder_pattern)
   - [Abstract factory](http://en.wikipedia.org/wiki/Abstract_factory_pattern)
