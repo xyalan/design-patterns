@@ -10,3 +10,4 @@ Design Patterns Wikipedia:
   - [Mediator](http://en.wikipedia.org/wiki/Mediator_pattern)
   - [Observer](http://en.wikipedia.org/wiki/Observer_pattern)
   - [Template method](http://en.wikipedia.org/wiki/Template_method_pattern)
+  - [Visitor](http://en.wikipedia.org/wiki/Visitor_pattern)
