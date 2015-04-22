@@ -7,6 +7,6 @@ package com.hialan.patterns.strategy;
  */
 public class ConcreteStrategyA implements IStrategy {
 	public void doSomething() {
-
+		System.out.println("This is strategy a");
 	}
 }
